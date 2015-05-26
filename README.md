@@ -1,5 +1,5 @@
 # LZMembersCell
-LZMembersCell
+LZMembersCell 用来展示群聊详情页面的群成员列表
 
 ## Install
 ```
