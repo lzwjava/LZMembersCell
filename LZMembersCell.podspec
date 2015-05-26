@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "LZMembersCell"
-  s.version      = "0.0.1"
+  s.version      = "0.0.2"
   s.summary      = "LZMembersCell use in IM App to show group members"
   s.description  = "LZMembersCell use in IM App to show group members, easy to use"
   s.homepage     = "https://github.com/lzwjava/LZMembersCell"
@@ -8,6 +8,6 @@ Pod::Spec.new do |s|
   s.author       = { "lzwjava" => "lzwjava@gmail.com" }
   s.social_media_url = "http://weibo.com/zhiweilee"
   s.platform     = :ios
-  s.source       = { :git => "https://github.com/lzwjava/LZMembersCell.git", :tag => "0.0.1" }
+  s.source       = { :git => "https://github.com/lzwjava/LZMembersCell.git", :tag => "0.0.2" }
   s.source_files  = "LZMembersCell/Classes/**/*.{h,m}"
 end
