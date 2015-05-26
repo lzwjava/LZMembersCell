@@ -3,5 +3,5 @@ LZMembersCell
 
 ## Install
 ```
-  pod install
+  pod 'LZMembersCell'
 ```
