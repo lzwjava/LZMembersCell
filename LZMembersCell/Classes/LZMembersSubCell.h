@@ -8,7 +8,7 @@
 
 #import <UIKit/UIKit.h>
 
-static CGFloat kLZMembersSubCellAvatarSize = 50;
+static CGFloat kLZMembersSubCellAvatarSize = 60;
 static CGFloat kLZMembersSubCellLabelHeight = 20;
 static CGFloat kLZMembersSubCellSeparator = 5;
 
